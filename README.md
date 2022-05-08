@@ -2,6 +2,8 @@
 리얼월드 VRP 업데이트 지원 버전 입니다.<br>
 기존 VRP의 복잡성을 해소하고 소스를 재구성 합니다.
 
+- 테스트 서버: "connect https://s-vrp.realw.kr"
+
 ### 디렉토리 구조
 ```diff
 + assets
