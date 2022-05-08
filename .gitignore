@@ -1,0 +1,8 @@
+.vscode/**/*
+core/**/*
+cache/**/*
+logs/**/*
+
+!core/.gitkeep
+!cache/.gitkeep
+!logs/.gitkeep
