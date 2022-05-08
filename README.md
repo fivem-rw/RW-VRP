@@ -42,3 +42,17 @@ FXServer 코어 파일
   + resources/[static]
     이미지 또는 바이너리 데이터
 ```
+
+### 설치
+
+```
+configs/default/development.default.cfg
+configs/default/production.default.cfg
+
+파일을
+
+configs/development.cfg
+configs/production.cfg
+
+위와 같이 복사 후 설정 파일 내용을 수정합니다.
+```
